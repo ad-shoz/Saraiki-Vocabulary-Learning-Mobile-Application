@@ -1,10 +1,10 @@
-# 📱 Saraiki Vocabulary Learning Mobile Application
+# Saraiki Vocabulary Learning Mobile Application
 
 A mobile application designed to help users learn basic Saraiki vocabulary through interactive flashcards, audio pronunciation, and gamified quizzes. Developed using Flutter and Firebase as part of a Final Year Project.
 
 ---
 
-## 📖 Introduction
+## Introduction
 
 Saraiki is a rich and expressive regional language spoken by millions in southern Punjab, Pakistan. Despite its cultural significance, digital tools for learning Saraiki are scarce. This project aims to develop a mobile application that helps users learn commonly used words in Saraiki through interactive and engaging methods.
 
@@ -72,7 +72,3 @@ These findings support the design choices of this project, including bite-sized 
 | **Figma**           | UI/UX design                         |
 | **GitHub**          | Version control and collaboration    |
 | **Google Play Console** | App deployment and release     |
-
----
-
-## 📁 Repository Structure (Example)
